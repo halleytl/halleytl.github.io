@@ -3,6 +3,8 @@ layout: post
 title: "Git 需要一点点记 "
 description: ""
 category: 
+themes:
+  name: "bootstrap-3"
 tags: [Git]
 ---
 {% include JB/setup %}
