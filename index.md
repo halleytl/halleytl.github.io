@@ -12,10 +12,7 @@ tagline:  东北滴
 # [点击这里找我](http://wpa.qq.com/msgrd?V=3&uin=406384832&Site=我的blog&Menu=yes><img border="0" SRC=http://wenwen.soso.com/p/20120316/20120316184142-1428120484.jpg)
 
 
----
-友情链接
 
-[那只狗貌似牛的样子](http://doglooksgood.github.io/blog)
 
 
 
