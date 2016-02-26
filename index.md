@@ -7,12 +7,16 @@ tagline:  东北滴
 
 
 
-[BI工程师_python工程师_黄磊_4年](https://github.com/halleytl/halleytl.github.io/raw/master/resume/BI%E5%B7%A5%E7%A8%8B%E5%B8%88_python%E5%B7%A5%E7%A8%8B%E5%B8%88_%E9%BB%84%E7%A3%8A_4%E5%B9%B4.pdf)
-[我的GitHub](https://github.com/halleytl)
-[点击这里找我](http://wpa.qq.com/msgrd?V=3&uin=406384832&Site=我的blog&Menu=yes><img border="0" SRC=http://wenwen.soso.com/p/20120316/20120316184142-1428120484.jpg)
+# [BI工程师_python工程师_黄磊_4年](https://github.com/halleytl/halleytl.github.io/raw/master/resume/BI%E5%B7%A5%E7%A8%8B%E5%B8%88_python%E5%B7%A5%E7%A8%8B%E5%B8%88_%E9%BB%84%E7%A3%8A_4%E5%B9%B4.pdf)
+# [我的GitHub](https://github.com/halleytl)
+# [点击这里找我](http://wpa.qq.com/msgrd?V=3&uin=406384832&Site=我的blog&Menu=yes><img border="0" SRC=http://wenwen.soso.com/p/20120316/20120316184142-1428120484.jpg)
 
-> 友情链接
+
+---
+友情链接
+
 [那只狗貌似牛的样子](http://doglooksgood.github.io/blog)
+
 
 
 
