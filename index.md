@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 欢迎来到我的Blog
-tagline:  东北滴 [我的GitHub](https://github.com/halleytl)
+tagline:  东北滴 
 ---
 {% include JB/setup %}
 
@@ -9,6 +9,7 @@ tagline:  东北滴 [我的GitHub](https://github.com/halleytl)
 
 
 [![点击这里找到我](https://github.com/halleytl/halleytl.github.io/raw/master/qq.gif)](http://wpa.qq.com/msgrd?V=3&uin=406384832&Site=我的blog&Menu=yes)
+
 
 
 
