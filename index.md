@@ -11,3 +11,8 @@ tagline:  东北滴
 
 [![点击这里找到我](https://github.com/halleytl/halleytl.github.io/raw/master/qq.gif)](http://wpa.qq.com/msgrd?V=3&uin=406384832&Site=我的blog&Menu=yes)
 
+<audio controls="controls" height="100" width="100">
+    <source src="blog.mp3" type="audio/mp3" />
+    <embed height="100" width="100" src="blog.mp3" />
+</audio>
+
