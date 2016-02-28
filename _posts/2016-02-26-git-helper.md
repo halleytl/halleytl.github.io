@@ -4,9 +4,10 @@ title: "Git 需要一点点记 "
 description: ""
 category: 
 theme: 
-  name: "hooligan"
+  name: twitter
 tags: [Git]
 ---
+
 {% include JB/setup %}
 
 
@@ -44,7 +45,6 @@ tags: [Git]
 * Git 拉去全部的远程分支
 
     [stackoverflow Answer](http://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches)
-
 
 
 
