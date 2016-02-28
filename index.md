@@ -2,7 +2,7 @@
 layout: page
 title: 欢迎来到我的Blog
 theme:
-  name: "bootstrap-3"
+  name: "twitter"
 tagline:  东北滴 
 ---
 {% include JB/setup %}
