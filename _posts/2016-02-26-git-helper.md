@@ -4,7 +4,7 @@ title: "Git 需要一点点记 "
 description: ""
 category: 
 theme: 
-  name: "bootstrap-3"
+  name: "hooligan"
 tags: [Git]
 ---
 {% include JB/setup %}

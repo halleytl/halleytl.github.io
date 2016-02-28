@@ -4,7 +4,7 @@ title: "docker 中添加ssh server"
 description: "尝试"
 category: 
 theme:
-  name:"mark-reid"
+  name:"twitter"
 
 tags: [docker ssh]
 ---
