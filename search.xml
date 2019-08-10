@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[demo]]></title>
+    <url>%2F2019%2F08%2F10%2Fdemo%2F</url>
+    <content type="text"><![CDATA[今天吃了一个煎饼用设计模式]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[My New Post]]></title>
     <url>%2F2019%2F08%2F10%2FMy-New-Post%2F</url>
     <content type="text"><![CDATA[创建一个新的页面]]></content>
